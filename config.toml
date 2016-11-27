@@ -1,0 +1,12 @@
+baseurl = "http://aasted.com/"
+title = "Aasted.com"
+languageCode = "en-us"
+theme = "hugo_theme_robust"
+googleAnalytics = "UA-88094328-1"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[params]
+    author = "Matt Aasted"
