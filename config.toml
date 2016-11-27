@@ -10,3 +10,4 @@ canonifyurls = true
 
 [params]
     author = "Matt Aasted"
+    copyright = "© Matt Aasted"
