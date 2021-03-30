@@ -5,7 +5,7 @@ theme = "hugo_theme_robust"
 googleAnalytics = "UA-88094328-1"
 contentdir = "content"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "../aasted.github.io"
 canonifyurls = true
 
 [params]
